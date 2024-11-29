@@ -1,3 +1,3 @@
 # identity-and-access-memory
-new repositire
+new Repositrey
 of the identity services
